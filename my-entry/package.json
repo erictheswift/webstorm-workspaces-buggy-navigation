@@ -1,0 +1,9 @@
+{
+  "name": "my-entry",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "my-library": "1.0.0"
+  }
+}
